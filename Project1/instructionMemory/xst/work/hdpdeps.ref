@@ -1,0 +1,9 @@
+V3 3
+FL "C:/Users/FAMILIA-ESCOBAR/Documents/Alejandro docs/1UTP/Arquitectura de computadores/Project1/instructionMemory/instructionMemory.vhd" 2017/04/07.11:11:36 P.20131013
+EN work/instructionMemory 1491581534 \
+      FL "C:/Users/FAMILIA-ESCOBAR/Documents/Alejandro docs/1UTP/Arquitectura de computadores/Project1/instructionMemory/instructionMemory.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179 \
+      PB std/TEXTIO 1381692176
+AR work/instructionMemory/arqInstructionMemory 1491581535 \
+      FL "C:/Users/FAMILIA-ESCOBAR/Documents/Alejandro docs/1UTP/Arquitectura de computadores/Project1/instructionMemory/instructionMemory.vhd" \
+      EN work/instructionMemory 1491581534
